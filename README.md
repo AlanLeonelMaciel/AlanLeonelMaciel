@@ -25,7 +25,7 @@
 
 - [Ticketo](https://github.com/rfnobando/ticketo) — My latest and most exciting project!
 - [TicketShow](https://github.com/AlanLeonelMaciel/ticket-shows) — Check it out in my repos for more details.
-- [Servece Matchs]([https://github.com/AlanLeonelMaciel/servece-matchs](https://github.com/AlanLeonelMaciel/appServicios) — Another project I'm proud of. Take a look!
+- [Service Match](https://github.com/AlanLeonelMaciel/appServicios) — Another project I'm proud of. Take a look!
 
 ---
 

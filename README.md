@@ -41,4 +41,4 @@ In addition to programming, I am a third year student of the Bachelor of Systems
 
 ---
 
-> “La mejor manera de predecir el futuro es crearlo.” — Peter Drucker
+> Si todo parece en tu contra, entonces vas por buen camino. Lo imposible solo necesita que alguien se atreva a intentarlo.” 🚀🎮

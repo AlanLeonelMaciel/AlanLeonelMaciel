@@ -23,7 +23,7 @@
 
 ## 🌟 Featured Projects
 
-- [Ticketo](https://github.com/rfnobando/ticketo) — My latest and most exciting project!
+- [Ticketo](https://github.com/rfnobando/ticketo) — My latest and most exciting project!(ticketo.me)
 - [TicketShow](https://github.com/AlanLeonelMaciel/ticket-shows) — Check it out in my repos for more details.
 - [Service Match](https://github.com/AlanLeonelMaciel/appServicios) — Another project I'm proud of. Take a look!
 
